@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ExpensesProject
 
 A program to manage your expenses
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ExpensesProject
+>>>>>>> 9189e2b9e2f71be3029457d1534c96dc3c81e077
